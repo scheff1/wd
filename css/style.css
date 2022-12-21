@@ -569,6 +569,7 @@ background-size: 30%;}
     left:45%;
     top: 40%;}
     .text-item.third{margin-left: 5px;}
+    .block.bloc3{max-width: 90%;}
 }
 @media screen and (max-width:598px) and (min-width:427px){
     .container{padding-left: 50px;
